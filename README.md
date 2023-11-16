@@ -8,4 +8,4 @@ Chnage \path\paper.pdf with your file path
 # How to change questions pattern 
 ![image](https://github.com/Rony2518/QueExtractor/assets/113433588/2064beab-93c3-4266-973f-285c1cfe38c1)
 
-you can change pattern by making chnage in 
+you can change pattern by making chnage in r"Q\.\d\s\(\w\).*?(?=\nQ\.\d|\nOR|\Z)"
