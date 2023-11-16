@@ -34,10 +34,10 @@ def extract_questions_from_pdf(pdf_files):
 
 # List of PDF files to extract questions from
 pdf_files = [
-    "D:\python\paperExtractor\ADA-BE-SUMMER-2022.pdf",
-    "D:\python\paperExtractor\ADA-BE-WINTER-2020.pdf",
-    "D:\python\paperExtractor\ADA-BE-WINTER-2021.pdf",
-    "D:\python\paperExtractor\ADA-BE-WINTER-2022.pdf",
+    "\path\paper1.pdf",
+    "\path\paper2.pdf",
+    "\path\paper3.pdf",
+    "\path\paper4.pdf",
 ]
 
 # Extract questions from the PDF files
